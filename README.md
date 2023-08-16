@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Muhtashim Lekhon</h1>
 <h3 align="center">A Data Science student of Freie Universität Berlin</h3>
 
-<p align=“right”> <img src=“![image](https://github.com/mlekhon/mlekhon/assets/134064094/f2e83165-c7e6-41d2-8b0d-585f3a87279e)”>
+<p align=“right”> <img src=“https://github.com/mlekhon/mlekhon/blob/main/Giithub%20banner.jpeg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlekhon&label=Profile%20views&color=0e75b6&style=flat" alt="mlekhon" /> </p>
 
