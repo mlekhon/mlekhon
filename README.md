@@ -1,15 +1,13 @@
 ![logo](https://github.com/mlekhon/mlekhon/blob/main/Giithub%20banner.jpeg)
 <h1 align="center">Hi 👋, I'm Md Muhtashim Lekhon</h1>
-<h3 align="center">A Data Science student of Freie Universität Berlin</h3>
+<h3 align="center">M.Sc Data Science student of Freie Universität Berlin</h3>
 
-<p align=“right”> <img src=“https://github.com/mlekhon/mlekhon/blob/main/Giithub%20banner.jpeg”>
+<img align='right' src="https://gifer.com/en/AjA6" width="230"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mlekhon&label=Profile%20views&color=0e75b6&style=flat" alt="mlekhon" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
-
 - 📫 How to reach me **lmuhtashim@gmail.com**
-
 - ⚡ Fun fact **I love to explore different cultures**
 
 <h3 align="left">Connect with me:</h3>
