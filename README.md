@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://mlekhon.github.io/muhtashim/" target="blank"><img align="center" src="https://github.com/mlekhon/mlekhon/blob/main/portfolio.png" alt="Muhtashim Lekhon's GitHub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/mlekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mlekhon" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdmuhtashimlekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdmuhtashimlekhon" height="30" width="40" /></a>
 <a href="https://instagram.com/lekhon_muhtashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lekhon_muhtashim" height="30" width="40" /></a>
