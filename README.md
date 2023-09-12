@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/mlekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mlekhon" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdmuhtashimlekhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdmuhtashimlekhon" height="30" width="40" /></a>
 <a href="https://instagram.com/lekhon_muhtashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lekhon_muhtashim" height="30" width="40" /></a>
+[<img src ="https://img.shields.io/badge/Personal-Webpage-red.svg?&style=for-the-badge&logo=&logoColor=white%22">] <a href="https://mlekhon.github.io/muhtashim/" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
